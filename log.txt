@@ -1,0 +1,17 @@
+commit 000d8d1ba0008e036512894070279e4a99672d5f
+Author: gabichoon <gabe.faivre@gmail.com>
+Date:   Fri Feb 23 10:14:04 2018 +0100
+
+    added gitignore
+
+commit 228881e652008fa9a16f5595a2cc755b1435a2f2
+Author: gabichoon <gabe.faivre@gmail.com>
+Date:   Fri Feb 23 09:50:56 2018 +0100
+
+    added two files
+
+commit 6a29ed4610e0c140aed96db907baa3044b45314f
+Author: gabichoon <gabe.faivre@gmail.com>
+Date:   Fri Feb 23 09:43:25 2018 +0100
+
+    added readme.txt
